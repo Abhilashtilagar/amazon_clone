@@ -1,3 +1,4 @@
+#AMAZON_CLONE 
 This project is a basic front-end clone of Amazon’s homepage built using only HTML and CSS.
 It was created as a practice project to improve my understanding of web structure, CSS layouts (flexbox and grid), and responsive design principles.
 
